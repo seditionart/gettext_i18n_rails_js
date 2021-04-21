@@ -53,7 +53,9 @@ namespace :gettext do
       "coffee",
       "handlebars",
       "hbs",
-      "mustache"
+      "mustache",
+      "ts",
+      "tsx"
     ].join(",")
 
     Dir.glob(
